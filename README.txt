@@ -19,7 +19,7 @@ percents - A list containing the iteration number and the percent change in thet
 
 ---Example---
 
-1) Change dir into ./LWR
+1) Change dir to where LWR.py is.
 
 2) Run this in a python terminal:
 
